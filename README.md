@@ -1,5 +1,6 @@
 # MyComputerLanguageStudy
-2022
+
+![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=32pt&section=header&text=LanguageStudy&fontSize=24pt)
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 정리중...
 
