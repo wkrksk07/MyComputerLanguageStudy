@@ -1,7 +1,8 @@
 # MyComputerLanguageStudy
 
-![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=32pt&section=header&text=LanguageStudy&fontSize=24pt)
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+<br>![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)![header](https://capsule-render.vercel.app/api?type=Waving&color=auto&height=32pt&section=header&text=LanguageStudy&fontSize=24pt)<br/>
+
+
 
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/> 정리중...
 
